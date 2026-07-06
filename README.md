@@ -4,8 +4,8 @@
 
 **Currently:**
 - 📸 First-ever high school intern at **Locket** (the photo-widget app that hit #1 on the App Store). Got the job by cold-emailing the founder. 3+ features I pitched were added to the app.
-- 🧴 Building **Radia**: an AI skin-analysis iOS app in SwiftUI + Convex + Claude. 396 commits in, build 10 on TestFlight, App Store submission in progress.
-- 🫁 Building **Hale**: a quit-nicotine app pairing an AI cessation coach (RAG over 23 clinical sources) with real buddy accountability. React Native + Convex, full production stack wired.
+- 🧴 Building [**Radia**](https://radia-website-sepia.vercel.app): an AI skin-analysis iOS app in SwiftUI + Convex + Claude. 396 commits in, build 10 on TestFlight, App Store submission in progress.
+- 🫁 Building [**Hale**](https://www.hale-app.com): a quit-nicotine app pairing an AI cessation coach (RAG over 23 clinical sources) with real buddy accountability. React Native + Convex, full production stack wired.
 - 📵 Building **Rot League**: fantasy football, but the sport is your screen time. Launching summer 2026.
 
 **Wins:**
