@@ -32,7 +32,7 @@ The harness I built Daycare Watch with. It runs a team of coding agents as separ
 
 ## Experience
 
-| | | |
+| Where | What | When |
 |---|---|---|
 | **Locket** | Product & Growth Intern, the first high school intern they hired. User research on retention, and 3 features shipped in the live app | May to Aug 2026 |
 | **A-Game Equity Partners** | Private Equity Intern. Sourced 20+ acquisition leads in trucking and freight | Jun to Aug 2026 |
@@ -40,7 +40,7 @@ The harness I built Daycare Watch with. It runs a team of coding agents as separ
 
 ## Leadership
 
-| | | |
+| Where | What | When |
 |---|---|---|
 | **Tuppi** | Co-founder and CEO of a four-person team building NFC food-container tags and an app that flags leftovers before they expire | Aug 2026 to now |
 | **Impact Math** | Founder and president. 30+ members and 200+ math kits for under-resourced schools | |
