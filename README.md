@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="areeb hirani. i like to build software and tools to make an impact.">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/intro-dark.svg">
+  <img src="assets/intro-light.svg" width="100%" alt="areeb hirani. i like to build software and tools to make an impact.">
 </picture>
 
 ### experience
@@ -14,8 +14,8 @@ short-form video for their accounts. 500k+ views.
 ### switchboard
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/switchboard-dark.svg">
-  <img src="assets/switchboard-light.svg" width="100%" alt="four terminals and an integrator passing messages over one bus">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/bus-dark.svg">
+  <img src="assets/bus-light.svg" width="100%" alt="four terminals and an integrator passing messages over one bus">
 </picture>
 
 a harness that runs a team of coding agents as separate terminals on one repo. each one has its own role and folders, they talk over a shared message bus, and a hook drops new messages into each session so they answer each other mid-task. only the integrator touches git. five terminals passed 1,570 messages in about 48 hours on the last app i built with it. the messages above are real ones from that run.
