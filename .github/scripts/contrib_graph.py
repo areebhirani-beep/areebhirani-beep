@@ -85,8 +85,8 @@ def render(cal, theme):
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{height:.0f}" '
         f'viewBox="0 0 {WIDTH} {height:.0f}" role="img" '
-        f'aria-label="{total} {noun} in the last year">',
-        f"<title>{total} {noun} in the last year</title>",
+        f'aria-label="{total:,} {noun} in the last year">',
+        f"<title>{total:,} {noun} in the last year</title>",
         "<style>"
         ".w{animation:in .5s ease-out both}"
         "@keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}"
