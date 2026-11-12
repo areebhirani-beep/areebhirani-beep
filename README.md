@@ -18,11 +18,13 @@ short-form video for their accounts. 650k+ views.
   <img src="assets/bus-light.svg" width="100%" alt="four terminals and an integrator passing messages over one bus">
 </picture>
 
-a harness that runs a team of coding agents as separate terminals on one repo. each one has its own role and folders, they talk over a shared message bus, and a hook drops new messages into each session so they answer each other mid-task. only the integrator touches git. five terminals passed 1,570 messages in about 48 hours on the last app i built with it. the messages above are real ones from that run.
+a harness that runs a team of coding agents as separate terminals on one repo. they talk over a shared message bus and answer each other mid-task, and only the integrator touches git. five terminals passed 1,570 messages in about 48 hours on the last app i built with it, and the messages above are real ones from that run.
+
+### this year
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areebhirani-beep/areebhirani-beep/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/areebhirani-beep/areebhirani-beep/output/snake.svg" width="100%" alt="contribution graph being eaten by a snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/areebhirani-beep/areebhirani-beep/output/graph-dark.svg">
+  <img src="https://raw.githubusercontent.com/areebhirani-beep/areebhirani-beep/output/graph-light.svg" width="100%" alt="contribution graph for the last year">
 </picture>
 
 areeb.hirani@gmail.com · [linkedin](https://www.linkedin.com/in/areeb-hirani-2a19a337a/)
