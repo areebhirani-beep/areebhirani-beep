@@ -6,10 +6,10 @@
 ### experience
 
 **locket** · product & growth intern · may to aug 2026<br>
-first high school intern they hired. user research on retention, 3 features shipped in the live app.
+first high school intern they hired. user research on retention, 3 features shipped in the live app with my intern partner
 
 **amboras** (yc) · content creator · 2026<br>
-short-form video for their accounts. 500k+ views.
+short-form video for their accounts. 650k+ views.
 
 ### switchboard
 
