@@ -9,7 +9,7 @@
 first high school intern they hired. user research on retention, 3 features shipped in the live app with my intern partner
 
 **amboras** (yc) · content creator · 2026<br>
-short-form video for their accounts. 650k+ views.
+short-form video for their accounts. 750k+ views.
 
 ### switchboard
 
